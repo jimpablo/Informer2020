@@ -48,3 +48,6 @@ data/ETT/
 *.csv
 *.pth
 *.pt
+
+# Notebooks to ignore
+Informer.ipynb
